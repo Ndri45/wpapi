@@ -1,25 +1,24 @@
 {
     "articles": [
-        { 
-            "id": 1,
-            "title": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam",
-            "article": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-            "post_date": "6/24/2021",
-            "catagory": "Horror"
-        },
-        {
-            "id": 2,
-            "title": "imperdiet et commodo vulputate justo in blandit ultrices enim lorem",
-            "article": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
-            "post_date": "4/3/2021",
-            "catagory": "Crime|Drama|Film-Noir|Romance|Thriller"
-        },
-        {
-            "id": 3,
-            "title": "turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan",
-            "article": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-            "post_date": "12/26/2021",
-            "catagory": "Comedy"
-        }
-   ]
+        {"id":1,"title":"Conserva Acabada","article":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.","catagory":"(no genres listed)","post_date":"7/1/2021"},
+        {"id":2,"title":"Big Bang in Tunguska (Das Rätsel von Tunguska)","article":"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.","catagory":"Documentary","post_date":"8/20/2021"},
+        {"id":3,"title":"Steel Toes","article":"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.","catagory":"Crime|Drama","post_date":"6/18/2021"},
+        {"id":4,"title":"Lost in America","article":"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.","catagory":"Comedy","post_date":"8/5/2021"},
+        {"id":5,"title":"Mitchell","article":"In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.","catagory":"Action|Crime","post_date":"2/10/2022"},
+        {"id":6,"title":"Tribute","article":"Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.","catagory":"Comedy|Drama","post_date":"2/26/2022"},
+        {"id":7,"title":"Ranma ½: Big Trouble in Nekonron, China (Ranma ½: Chûgoku Nekonron daikessen! Okite yaburi no gekitô hen)","article":"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.","catagory":"Animation|Comedy","post_date":"7/6/2021"},
+        {"id":8,"title":"Cadaver Christmas, A","article":"Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.","catagory":"Comedy|Horror","post_date":"10/29/2021"},
+        {"id":9,"title":"Public Enemy, The","article":"Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.","catagory":"Action|Crime|Drama","post_date":"4/20/2021"},
+        {"id":10,"title":"Miracle Run","article":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.","catagory":"Drama","post_date":"7/25/2021"},
+        {"id":11,"title":"Cotton Comes to Harlem","article":"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.","catagory":"Action|Comedy","post_date":"11/9/2021"},
+        {"id":12,"title":"Tongan Ninja","article":"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.","catagory":"Action|Adventure|Comedy","post_date":"10/5/2021"},
+        {"id":13,"title":"Ocean Heaven ","article":"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.","catagory":"Drama","post_date":"3/24/2021"},
+        {"id":14,"title":"9","article":"Phasellus in felis. Donec semper sapien a libero. Nam dui.","catagory":"Adventure|Animation|Sci-Fi","post_date":"12/14/2021"},
+        {"id":15,"title":"Rutles 2: Can't Buy Me Lunch, The","article":"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.","catagory":"Comedy|Documentary|Musical","post_date":"12/15/2021"},
+        {"id":16,"title":"Where the Red Fern Grows","article":"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.","catagory":"Drama","post_date":"8/3/2021"},
+        {"id":17,"title":"Shadow Riders, The","article":"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.","catagory":"Romance|Western","post_date":"12/20/2021"},
+        {"id":18,"title":"Up the Down Staircase","article":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.","catagory":"Drama","post_date":"1/17/2022"},
+        {"id":19,"title":"Chosin ","article":"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.","catagory":"Documentary|War","post_date":"4/5/2021"},
+        {"id":20,"title":"Sorority House Massacre","article":"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.","catagory":"Horror","post_date":"1/15/2022"}
+    ]
 }
