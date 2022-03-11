@@ -1,6 +1,12 @@
 {
     "products": [
-        {"id":1, "name": "product name one"},
+        { 
+            "id": 1,
+            "title": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam",
+            "article": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "post_date": "6/24/2021",
+            "catagory": "Horror"
+        },
         {"id":2, "name": "product name two"}
    ]
 }
