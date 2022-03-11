@@ -1,25 +1,6 @@
 {
-    "movies": [
-        {
-            "id": 1,
-            "title": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam",
-            "article": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-            "post_date": "6/24/2021",
-            "catagory": "Horror"
-        },
-        {
-            "id": 2,
-            "title": "imperdiet et commodo vulputate justo in blandit ultrices enim lorem",
-            "article": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
-            "post_date": "4/3/2021",
-            "catagory": "Crime|Drama|Film-Noir|Romance|Thriller"
-        },
-        {
-            "id": 3,
-            "title": "turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan",
-            "article": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-            "post_date": "12/26/2021",
-            "catagory": "Comedy"
-        }
-    ]
+    "products": [
+        {"id":1, "name": "product name one"},
+        {"id":2, "name": "product name two"}
+   ]
 }
